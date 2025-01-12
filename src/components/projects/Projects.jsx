@@ -123,7 +123,7 @@ const projects = [
   },
   {
     title: "PornHub Clone",
-    imgSrc: "project-imgs/phub.png",
+    imgSrc: "project-imgs/example-project.jpg",
     code: "https://www.github.com",
     projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     tech: ["Python", "FastAPI", "SQLAlchemy"],

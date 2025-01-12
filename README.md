@@ -1,24 +1,4 @@
-# Hey! Welcome to the template!
 
-All of Hover's templates are built with React, NextJS and TailwindCSS. If you're already comfortable with NextJS, feel free to dig in and get started. If not, we'll provide some details below to get you up and running.
-
-Demos for all of our templates can be found [here](https://www.hover.dev/templates).
-
-## Let's get things running
-
-This template is built on top of [NextJS](https://nextjs.org/), a full stack development framework built on top of React.
-
-We won't take time here going over exactly how NextJS works on a deep level (to be fair, this project doesn't use Next at a deep level), but if you're interested in learning, their docs are [here](https://nextjs.org/docs/getting-started).
-
-At the root of your project, you'll see a `package.json` file defining our dependencies.
-
-Most of this is boilerplate, but I will call out the following dependencies:
-
-- `framer-motion` -> A react based animation library used for most animations
-- `animejs` -> A secondary animation library used for the staggered grid animation in the hero section.
-- `tailwindcss` -> All styling uses Tailwind CSS for this project
-
-Now that that's out of the way, you can get your project running by first installing dependencies.
 
 From your terminal, run:
 
